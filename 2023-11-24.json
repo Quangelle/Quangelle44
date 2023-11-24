@@ -1,0 +1,26 @@
+{
+  "name": "Logan Curtis",
+  "age": 23,
+  "address": {
+    "street": "Gaga Parkway",
+    "city": "Giuwokak",
+    "state": "VA",
+    "zip": "93521"
+  },
+  "contact": {
+    "phone": "(865) 681-4003",
+    "servicePhone": "800323628"
+  },
+  "birthday": "1974-12-11T03:28:40.057Z",
+  "ip": "196.22.44.157",
+  "foo": "bar",
+  "profile": {
+    "about": "Makeguniw def vuisi pubki bekvic pacizna ed mesaem vi uvuhig lusot avoc bojafna aswiweh li. Kibihupi ok awhawna murmod ot uh bemgehas ha nu majide zuremzil pev. Pivwa so jeta kagcoeli jusaho diddeoha hiju omo aghehdaj pudme apuco mu or zehwer wimtopizo gop.",
+    "bio": "Sek wakita bafa wepus hu icabiciz mewimvim wornenut hauk muveet wul bijkol fewzetez mabusi. Juwiliva meb buldu fi pe imtop wuwkibpod oseha ded dozvob neftik di su aturi vupomu. Mu ecoko uze pufgasjam zawetecub vupson cic idaahge ijras lupitso teshakhu sel aphedko sug em tescu da pigul."
+  },
+  "apiKey": "91e4f8093a148cbe6f65df5a61d40b309f1deabfaed31c7965b9fa698b3196b3",
+  "currency": {
+    "code": "BGN",
+    "name": "Bulgaria Lev"
+  }
+}
