@@ -1,0 +1,26 @@
+{
+  "name": "Jeffery Hanson",
+  "age": 23,
+  "address": {
+    "street": "Egirun Extension",
+    "city": "Sebalzez",
+    "state": "MA",
+    "zip": "63212"
+  },
+  "contact": {
+    "phone": "(701) 934-8134",
+    "servicePhone": "800684588"
+  },
+  "birthday": "1998-05-28T07:58:24.472Z",
+  "ip": "247.142.205.121",
+  "foo": "bar",
+  "profile": {
+    "about": "Pezwez sopero cuti mohojov piokbik sulebule pe bar recuwoum na fojle rus udauzza luvpe. Cu jutfi cegud gowawok wobwodtev gerempu tu goge babared busutafes heusuvu aleis tepamu. Zawhiroj fetviwhem ti cul zitju vaf er zuwbin da ufoajone dupere aji voleve semhehep lu cozojahi zaozefe. To neubere cis cah fo diaffo uwaot titintis latubzo to jofrekve olutel ven.",
+    "bio": "Bakew jo mif eci ma lopovlaf guruami uta wu gowa jawiub ofucu. Konpew ne uhihot iwukupu towapiav bof tuzabucep maso nedeso urekar re fiemaowa mawseje poktewpis upcen kifove cebasoed. Jetze nek tuzuh daemo neszo lij divel uvavavpa mola figon roabbe pu ejiaheho. Di ene wifej naiv pamu sopjog lesbeg zawnovi ziwhacvaw vihzusi hovavki farulvam wumgaebo baznup eviciso. Tu osa civiz zed asimufno iwcun kuuhnu lutme bacsowab najagwo ugradiv zeb. Ocsadhef kup jaf pagzichup zukkorno ta ijsuma votomuz tet cabda lo hocca rok kin ha risom huse farusmo."
+  },
+  "apiKey": "a1a5d77e2b727ce4e3cb2f286285480e43bd0d76f4573157336943bbe043fce1",
+  "currency": {
+    "code": "TND",
+    "name": "Tunisia Dinar"
+  }
+}
