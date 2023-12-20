@@ -1,0 +1,26 @@
+{
+  "name": "Charlie Shelton",
+  "age": 40,
+  "address": {
+    "street": "Sita Pike",
+    "city": "Tofitza",
+    "state": "ID",
+    "zip": "44890"
+  },
+  "contact": {
+    "phone": "(747) 705-4386",
+    "servicePhone": "800555921"
+  },
+  "birthday": "1997-05-13T08:22:26.088Z",
+  "ip": "52.105.100.225",
+  "foo": "bar",
+  "profile": {
+    "about": "Esagi zihtah wew rumidju dafanoih oluvefla difropu ona sag ti pu porjutetu mair. Jejha web zov lic am ud lukdonu zezbi dadam higje vetruj jistu be esojod pi. Pez nowfe uduzu bouwno zoogezad caevzi egsan zecopfam ovsures sihkih zip ge jawtev zozwuwba gabkishap beol bumfowudu kub. Dus rec gi ubaaloufu kug puub kovfiwsi apaso fiuja kuba jowcote mispaj ug.",
+    "bio": "Wek odo bezo gofina oc mamecu urmi upapomij fahimate ifzicod ked hawacu zawwirez meh meni uwa. Pebleg wip hojiev og ugilace vopegi tagcu suwsubcip juicdom ifofiwgim dihomer hawce ki jolfis ko pudig. Te rimpop casuv ruar es dutla hal zec cag zurharbef lo vopuruk ajuwisoh wincudju ka. Jid ilpi amoekgof bawik logvutka uci vojwu usamojoh jolsiega kinpogo fureviita viunnug sigal. Memnavas uhu rek ge zategfik witdenapo fiuz dot tu epi kofug wibupmek mustenrer vi ecromros nezzomjet."
+  },
+  "apiKey": "f715d32a32dced8920b78e2c528b3ca3e80416c38ede7b382a959106a2826ec9",
+  "currency": {
+    "code": "MVR",
+    "name": "Maldives (Maldive Islands) Rufiyaa"
+  }
+}
