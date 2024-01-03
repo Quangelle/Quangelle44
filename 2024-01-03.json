@@ -1,0 +1,26 @@
+{
+  "name": "Jane Ramos",
+  "age": 30,
+  "address": {
+    "street": "Popah Square",
+    "city": "Siduor",
+    "state": "NV",
+    "zip": "33469"
+  },
+  "contact": {
+    "phone": "(889) 837-4545",
+    "servicePhone": "800163618"
+  },
+  "birthday": "1987-07-10T20:16:58.855Z",
+  "ip": "195.66.207.115",
+  "foo": "bar",
+  "profile": {
+    "about": "Eg saacipe puwjeid caw ka sid gol pewujo tuvu mojib kuzeg row iwo gu. Mafagjeg ap ozharse zov ejsu wafez po nozloccuf paphal lu zirwuibi orkat. Muogu jof ar ika puid husewe ap ku celmu to tut kaiha wava lif polosmag igruuv. Danot poik fedbero imcuwor padim docwewjes ti rizoh gilet ze rolapzo run liweuw ectuvaci.",
+    "bio": "Ci udomecog ubitahu rambukkol cociiki labmi tecpewtu girrid huafme jifiere eva eso nekjep licobsim. Te aviwejjes go ohfu guc zof ure ki imgi ka givappi af. Awcu kiz ukjeg eluterap to ved jokedlih fafgihup ceruvniw cukjefuv huv hu juk we. Zag kit kubuulu in uhezi ojapub tidjogwo osuhacri omedomuw ur cejinfu sapedemew seh camar ujape rudo gurru."
+  },
+  "apiKey": "8de2aa20f2352a3ab3838fb9b43958cdef2ca27ccd84d9ba8486e32bac77d070",
+  "currency": {
+    "code": "MWK",
+    "name": "Malawi Kwacha"
+  }
+}
