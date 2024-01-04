@@ -1,0 +1,26 @@
+{
+  "name": "James Leonard",
+  "age": 58,
+  "address": {
+    "street": "Bimo Circle",
+    "city": "Sorsafa",
+    "state": "MA",
+    "zip": "42142"
+  },
+  "contact": {
+    "phone": "(914) 262-2188",
+    "servicePhone": "800736156"
+  },
+  "birthday": "1980-08-18T11:36:07.735Z",
+  "ip": "144.142.31.44",
+  "foo": "bar",
+  "profile": {
+    "about": "Gili zebep ce puh ho omzoep vu uwi minehvik upa fularli pit mobda tunim. Uroibuva udota nottu fol oca ubo ob egiza eto wat tiw te zobokoib ballueni em igizihso. Zu ci hes li jepse utcenve memfebvil dowgazki girap te jiz uhe gu guivi okocimo lo wowcuza.",
+    "bio": "Lowjuzab ukzalmem pij bid viij hewrejmus lik budi wufeb kideh cem oz osrugar tol re cuzbet mopjaom. Rah fe ibiguphu pagpu wuwlemluw omatin wo je zunma tadcis kemi telmisem vosivviw. Tippejabu cunaluz lubgu eb ko mawifos ma ifu nemsaj hob nuci zugeem katrogif ewra fided isa kavade."
+  },
+  "apiKey": "cb32e16662547f9b46c093763995b736142f322c464dbe4160aedc8410fa980f",
+  "currency": {
+    "code": "RWF",
+    "name": "Rwanda Franc"
+  }
+}
