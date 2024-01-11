@@ -1,0 +1,26 @@
+{
+  "name": "Ada Park",
+  "age": 48,
+  "address": {
+    "street": "Fiade Glen",
+    "city": "Imipefek",
+    "state": "OR",
+    "zip": "10293"
+  },
+  "contact": {
+    "phone": "(784) 289-1003",
+    "servicePhone": "800864134"
+  },
+  "birthday": "1986-09-13T01:25:17.193Z",
+  "ip": "145.217.35.52",
+  "foo": "bar",
+  "profile": {
+    "about": "Ovwihmo fi vabgibi betvaweco ida ijzim piri aka juvnupbod lucoj el je. Felipad gacdivawo votzeta an damiabi pu gonam touj donda iwogsen ji hugbu dempo kifkarsig og iriwuzvum ponoldal. Ci habon eze fer eg nak vin kir opoc ewpi go tucini avofoiz taposhu gi.",
+    "bio": "Puhjudu gi tezimab be muw wug wukibsu fahurisem vewad uc idesumu jisik war. Wi inrofef pu divgo rag mu gogbah otucakig fuw du jojicu pocumu ma depciz kofrurvi fujonovel ijo sez. Cu waava oj kofpujowo eglodbo jeb jefmegsip wehodwup lofgalpu casawa elreta wucikso ep ivura sokmifsi. Nokusbo be jemfip fo fel erufawked cuz vezad avvev rahoma wihooj gizdoset zejevoki kat tepvizzuv."
+  },
+  "apiKey": "ac28c45339f80825b341b2700d1da238d7c09fb9c1d50f7ee5c1a1f5298b35ff",
+  "currency": {
+    "code": "HRK",
+    "name": "Croatia Kuna"
+  }
+}
