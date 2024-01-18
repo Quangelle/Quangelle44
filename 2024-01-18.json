@@ -1,0 +1,26 @@
+{
+  "name": "Sally Foster",
+  "age": 19,
+  "address": {
+    "street": "Anzo Glen",
+    "city": "Onurohho",
+    "state": "ID",
+    "zip": "05667"
+  },
+  "contact": {
+    "phone": "(857) 305-4532",
+    "servicePhone": "800869766"
+  },
+  "birthday": "1976-05-08T09:04:35.555Z",
+  "ip": "174.236.174.190",
+  "foo": "bar",
+  "profile": {
+    "about": "Tuzaj fasol dooswo hetsoobi zitfiida ovpa uvowelhog tur jehpi cofde gu julap. Wohwadloz hav ku kafibi dezlarsuv zut gitse kilo surav wuzodja fa hecehze jivanok wojotoja. Woj mijser nowa wemurfu uroca pe havumfig dekme lu huv fatzod le owuake laucaga ithoav su ezujo heptid.",
+    "bio": "Bi kefikif bularu suramjig kogi kiko sowkol ofzojen vo ezo belretaf hotizcej wikow. Ci bahusohur zij ga lo govohafu na ote echukcuz ahvisok sop otborlaw coole hupuro rewezu olukoet otopofi. Muzov zijican mafbo pitde pa ab cemror eda cim car lu ul ankagap wiztaf osenumjaw jagsoz itbopej. Macvo dig ir imejic niba fo ireawbol teed ve jasso siul ji romomabi. Dacviv lecuptod cevin bilnekot nanik me ap goid vebte zeg bunuloh bup desil lan ug sugun ejo."
+  },
+  "apiKey": "acf76591fb53ca2e65b9a30c5710f08aea8127ec80f3a71a3b6f0167791ee1aa",
+  "currency": {
+    "code": "OMR",
+    "name": "Oman Rial"
+  }
+}
