@@ -1,0 +1,26 @@
+{
+  "name": "Ian Vargas",
+  "age": 61,
+  "address": {
+    "street": "Mipnut Extension",
+    "city": "Hepowi",
+    "state": "AK",
+    "zip": "92549"
+  },
+  "contact": {
+    "phone": "(789) 501-3732",
+    "servicePhone": "800133824"
+  },
+  "birthday": "1997-02-11T07:11:23.667Z",
+  "ip": "133.32.214.48",
+  "foo": "bar",
+  "profile": {
+    "about": "Laj lukuvak lajnunri ebu senekuone hec cahtupi jal judrih hif tehimel dubib. Feuku abgih ce rujbi mahnillag cimahe hel dabke gikpop muma kuvowhe owosab nic gavo oji. Pobbojrah nu jowubu wemvi av gasvo ri awwojza zuwaja teczal luc daerajo. Dengus du de osi ce weccaj rib guj mug okifoef vubmodcij zapsabra ifi pe. Lategire setosnit vajhic koso piimis jicgat etalekbap fuwi mijwuvcut lihosel avehav cipiv wabopjob libem eljup kacbopaw.",
+    "bio": "Gav rud sap rub okdus pen ugkilvog ubtuvo mihboj mamej jo gutojov lo tad fi bu. Wog tos cu gagaftih ko li fiw oguhad biiso nol kuga lifitfiz. Bu kemihdu zaza bodos rik pogu fi loribguj hiwokfat juccebap se hatoh amivafi aco. Es ho kigubew gucmebfa mevapoh kom savuise nut oboju biado hocucnin kireba. Ho fagiw sot durjutip cu vu ehupo isga ocpo ejoig pef uzfeh ugju vopota kag suweze."
+  },
+  "apiKey": "53189b05f17a0e10186dfd97f3ebea8e430d1344a65b52df5476eefde3f95235",
+  "currency": {
+    "code": "DOP",
+    "name": "Dominican Republic Peso"
+  }
+}
