@@ -1,0 +1,26 @@
+{
+  "name": "Earl Rhodes",
+  "age": 56,
+  "address": {
+    "street": "Anume Way",
+    "city": "Iwsora",
+    "state": "NM",
+    "zip": "26349"
+  },
+  "contact": {
+    "phone": "(855) 624-3145",
+    "servicePhone": "800546271"
+  },
+  "birthday": "1994-08-17T19:01:44.261Z",
+  "ip": "122.67.141.201",
+  "foo": "bar",
+  "profile": {
+    "about": "Te awepa weun ve wa aza guf ci suw rabjur velu olkihul garru nucsek cesir huha paztaf. Alni miha lo ra worsuowe lirmodruh kewloica awweh pecafgek jilsovew lewjuf ko. To saahu ninfopub jumefu puj oseji wotozoz sa jo sin dintekwi tafpawe udutoka vutiwca.",
+    "bio": "Kasumah morvampoz celufjuh fi iwi elovo fumefew borepo unohabzuv zakkopat waepcin vioz maujpu luisheb. Jafbagpe hisse zalnu pa wew nejocref cibapi ji bivo ha cow ihikziw rupdacuv cinzer witceaha vabuwa mokbiw. Seuh mikadi vujalhik japmuc lawokus jucasazes afocidohi few dakdutil rewtec zesimuka del ummi. Legezpi uhewa got masunino evpotu gugoc demvargot keoja odi biflopo jilpugur san sevigi cul gufu."
+  },
+  "apiKey": "ae1b912e2564efe00cee2679781ce471ce406c0910509c67a7ed23234a8e5fff",
+  "currency": {
+    "code": "KYD",
+    "name": "Cayman Islands Dollar"
+  }
+}
